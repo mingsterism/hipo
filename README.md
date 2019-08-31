@@ -21,22 +21,22 @@
 
 # HiPO Milestones (Web Development)
 ### Month 1 -----------------------
-- [] Solve [basic algorithm problems on freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/). Select 5 random problems and complete the solution - Part 1
+- Solve [basic algorithm problems on freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/). Select 5 random problems and complete the solution - Part 1
 ### Month 2 -----------------------
-- [] Solve [basic algorithm problems on freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/). Select 5 random problems and complete the solution - Part 2
-- [] Build your own personal website with HTML + CSS [Sample Site to follow](https://colorlib.com/preview/#jackson)
+- Solve [basic algorithm problems on freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/). Select 5 random problems and complete the solution - Part 2
+- Build your own personal website with HTML + CSS [Sample Site to follow](https://colorlib.com/preview/#jackson)
 ### Month 3 -----------------------
-- [] Solve [intermediate algorithm problems on freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting). Select 5 random problems and complete the solution
-- [] Solve Google Code Jam problem [Foregone Problem](http://tiny.cc/foregone-solution)
+- Solve [intermediate algorithm problems on freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting). Select 5 random problems and complete the solution
+- Solve Google Code Jam problem [Foregone Problem](http://tiny.cc/foregone-solution)
 ### Month 4 -----------------------
-- [] Make a todo application with Javascript + Jquery [Reference](https://www.w3schools.com/howto/howto_js_todolist.asp)
-- [] Complete all javascript modules on Codeacademy and able to solve all problems without assistance
+- Make a todo application with Javascript + Jquery [Reference](https://www.w3schools.com/howto/howto_js_todolist.asp)
+- Complete all javascript modules on Codeacademy and able to solve all problems without assistance
 ### Month 5 -----------------------
-- [] Finish all [crash course computing](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) videos
-- [] Complete entire guide to build a full web server with express js framework [Tutorial Guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+- Finish all [crash course computing](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) videos
+- Complete entire guide to build a full web server with express js framework [Tutorial Guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 ### Month 6 -----------------------
-- [] Understand vuejs. Read complete the [essentials guide](https://vuejs.org/v2/guide/)
-- [] Build todo application with Database and login / logout features using Firebase [Firebase Ref](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
+- Understand vuejs. Read complete the [essentials guide](https://vuejs.org/v2/guide/)
+- Build todo application with Database and login / logout features using Firebase [Firebase Ref](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
 
 # FAQ
 1. What will I be able to build once I complete this program after 6 months? 
