@@ -3,6 +3,7 @@
  */
 
 var age = 10;
+console.log("THIS IS MING GGGGGGGGG")
 console.log(1234);
 console.log("heyy");
 console.log("heyy", 1234);
