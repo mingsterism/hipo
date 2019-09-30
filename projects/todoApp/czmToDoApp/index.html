@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>To-Do App</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
+  <script src="jQuery.js"></script>
+</head>
+
+<body>
+
+  <form>
+    <div class = "form-element">
+      <label for="task">To Do:</label>
+      <input type="text" name="task" id="task" placeholder="Enter your task here">
+      <button type="button" id="submitButton">Submit</button>
+    </div>
+  </form>
+
+  <h1>To Do</h1>
+    <div id="toDo">
+        <ul id="toDoList">
+        </ul>
+    </div>
+  
+    <h1>Completed</h1>
+    <div id="completed">
+        <ul id="completedList">
+        </ul>
+    </div>
+</body>
+</html>
