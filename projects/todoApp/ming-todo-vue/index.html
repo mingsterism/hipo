@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <style>
+      .mega {
+        font-size: 100px;
+      }
+      .blackBox {
+        width: 100px;
+        height: 100px;
+        background-color: black;
+      }
+      .blueBox {
+        height: 20px;
+        background-color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="b">
+      {{ name }}
+      <p class="mega">{{ counter }}</p>
+      <h1>Counter is</h1>
+      <button @click="doSomething">INCREASE</button>
+      <input
+        type="text"
+        placeholder="Do my todo"
+        @keyup.enter="handleEnter(myTodo)"
+        v-model="myTodo"
+      />
+      <h3>{{ myTodo }}</h3>
+      <div
+        :class="[{blueBox: isActive}, errorClass]"
+        @mouseover="mouseOver"
+        @mousemove="foo"
+      >
+        blackbox
+      </div>
+      <ul v-for="todo in todos">
+        <li>{{ todo }}</li>
+      </ul>
+    </div>
+  </body>
+  <script>
+    new Vue({
+      el: "#b",
+      data() {
+        return {
+          name: "Ming",
+          counter: 1,
+          boxColor: "black",
+          isActive: false,
+          errorClass: "blackBox",
+          todos: [],
+          myTodo: "", 
+        };
+      },
+      methods: {
+        doSomething() {
+          this.counter = this.counter + 1;
+        },
+        mouseOver() {
+          this.isActive = true;
+        },
+        foo() {
+          console.log("Im moving");
+        },
+        handleEnter(todo) {
+          console.log(todo);
+          this.todos.push(todo);
+          this.myTodo = "";
+        }
+      }
+    });
+    console.log("i'm loaded");
+  </script>
+</html>
