@@ -30,16 +30,16 @@
 ## Building a todo app 
 - Sections 
     1) Building the front end
-    1) HTML 
-        1) Input box
-        2) Dropdown box
-        3) List of todos
-    2) CSS
-        1) Styling the code
-    3) Javascript / Vuejs
-        1) Showing my completed todos
-        2) Showing my pending todos
-        3) Showing my deleted todos
+        1) HTML 
+            1) Input box
+            2) Dropdown box
+            3) List of todos
+        2) CSS
+            1) Styling the code
+        3) Javascript / Vuejs
+            1) Showing my completed todos
+            2) Showing my pending todos
+            3) Showing my deleted todos
 
     2) Deploying it to the cloud
        1) Hosting your app on digitalocean
@@ -64,8 +64,11 @@
 - Understand vuejs. Read complete the [essentials guide](https://vuejs.org/v2/guide/)
 - Build todo application with Database and login / logout features using Firebase [Firebase Ref](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
 
+### Month 8 -----------------------
+- Internship (practical projects) | Matching to a real company
+
 # FAQ
-1. What will I be able to build once I complete this program after 6 months? 
+1. What will I be able to build once I complete this program after 8 months? 
    You will be able to build a full application that stores data and allow's users to login and logout using firebase. 
 
 # Tips
