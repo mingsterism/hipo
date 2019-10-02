@@ -43,6 +43,7 @@
       </div>
       <ul v-for="todo in todos">
         <li>{{ todo }}</li>
+        <button @click="handleDelete">DELETE</button>
       </ul>
     </div>
   </body>
@@ -57,7 +58,7 @@
           isActive: false,
           errorClass: "blackBox",
           todos: [],
-          myTodo: "", 
+          myTodo: ""
         };
       },
       methods: {
@@ -74,6 +75,9 @@
           console.log(todo);
           this.todos.push(todo);
           this.myTodo = "";
+        },
+        handleDelete(todo) {
+          console.log("deleting", this.todos);
         }
       }
     });

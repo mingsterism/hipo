@@ -25,16 +25,42 @@
 ### Month 2 -----------------------
 - Solve [basic algorithm problems on freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/). Select 5 random problems and complete the solution - Part 2
 - Build your own personal website with HTML + CSS [Sample Site to follow](https://colorlib.com/preview/#jackson)
-### Month 3 -----------------------
+
+### Month 3 ----------------------
+## Building a todo app 
+- Sections 
+    1) Building the front end
+    1) HTML 
+        1) Input box
+        2) Dropdown box
+        3) List of todos
+    2) CSS
+        1) Styling the code
+    3) Javascript / Vuejs
+        1) Showing my completed todos
+        2) Showing my pending todos
+        3) Showing my deleted todos
+
+    2) Deploying it to the cloud
+       1) Hosting your app on digitalocean
+
+    3) Integrating it to a database
+       1) Google Firebase
+
+    4) Adding more cool features 
+       1) Login / logout
+
+### Month 4 -----------------------
 - Solve [intermediate algorithm problems on freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting). Select 5 random problems and complete the solution
 - Solve Google Code Jam problem [Foregone Problem](http://tiny.cc/foregone-solution)
-### Month 4 -----------------------
+### Month 5 -----------------------
 - Make a todo application with Javascript + Jquery [Reference](https://www.w3schools.com/howto/howto_js_todolist.asp)
 - Complete all javascript modules on Codeacademy and able to solve all problems without assistance
-### Month 5 -----------------------
+### Month 6 -----------------------
 - Finish all [crash course computing](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) videos
 - Complete entire guide to build a full web server with express js framework [Tutorial Guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-### Month 6 -----------------------
+### Month 7 -----------------------
+- Build your own project (Do something of your own)
 - Understand vuejs. Read complete the [essentials guide](https://vuejs.org/v2/guide/)
 - Build todo application with Database and login / logout features using Firebase [Firebase Ref](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
 
