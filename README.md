@@ -1,4 +1,5 @@
-# The Checklist to become a good junior coder YIHANG is here 
+# The Checklist to become a good junior coder YIHANG is here
+yihang second push 
 ## Devops 
 - [ ] Able to navigate linux using just commandline
 - [ ] Understand how the linux file system works
