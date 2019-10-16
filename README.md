@@ -1,20 +1,20 @@
 # The Checklist to become a good junior coder
 ## Devops 
-- [] Able to navigate linux using just commandline
-- [] Understand how the linux file system works
-- [] Understand what is the OSI model and able to explain it to a layman
+- [ ] Able to navigate linux using just commandline
+- [ ] Understand how the linux file system works
+- [ ] Understand what is the OSI model and able to explain it to a layman
 - Challenges
-  - [] Deploy your own website to a cloud server using GCP or AWS
+  - [ ] Deploy your own website to a cloud server using GCP or AWS
 
 ## Programming Languages and logic thinking
 - Functional Programming
-  - [] Write a recursive factorial function
-  - [] Write a tail recursive factorial function
+  - [ ] Write a recursive factorial function
+  - [ ] Write a tail recursive factorial function
 - Object Oriented Programming
-  - [] Create a class object with methods and constructors
+  - [ ] Create a class object with methods and constructors
 - Challenges
-  - [] Solve basic algorithm challenges on Freecodecamp
-  - [] Solve all of intermediate algorithm challenges on Freecodecamp
+  - [ ] Solve basic algorithm challenges on Freecodecamp
+  - [ ] Solve all of intermediate algorithm challenges on Freecodecamp
 
 ## Frontend 
 - [] Familiar with CSS and HTML
