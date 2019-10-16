@@ -15,7 +15,7 @@
 - Challenges
   - [ ] Solve basic algorithm challenges on Freecodecamp
   - [ ] Solve all of intermediate algorithm challenges on Freecodecamp
-
+modified by foo 
 ## Frontend 
 - [ ] Familiar with CSS and HTML
 - [ ] Familiar with CSS Flexbox and CSS Grid
