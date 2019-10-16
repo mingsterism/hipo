@@ -17,38 +17,38 @@
   - [ ] Solve all of intermediate algorithm challenges on Freecodecamp
 
 ## Frontend 
-- [] Familiar with CSS and HTML
-- [] Familiar with CSS Flexbox and CSS Grid
+- [ ] Familiar with CSS and HTML
+- [ ] Familiar with CSS Flexbox and CSS Grid
 - Challenges
   - Able to replicate a major website with 80% - 90% accuracy using just HTML and CSS
 
 ## Backend 
-- [] Understand what is a web server
-- [] Familiar with API and what it does
-- [] Understand how Nodejs Works 
-- [] Deploy an express web server and expose API calls
+- [ ] Understand what is a web server
+- [ ] Familiar with API and what it does
+- [ ] Understand how Nodejs Works 
+- [ ] Deploy an express web server and expose API calls
 
 ## Mini project challenges
-- [] Build your own guessing game
-- [] Build a web scraper
-- [] Build a todo application using DOM methods
-- [] Ddos a website
+- [ ] Build your own guessing game
+- [ ] Build a web scraper
+- [ ] Build a todo application using DOM methods
+- [ ] Ddos a website
 
 ## Build a full web application
-- [] Integrate to a database
-- [] Add login / logout functionality
-- [] Make API calls to a backend server
-- [] Use a SPA framework to build the web application (Vue, React, Angular)S
+- [ ] Integrate to a database
+- [ ] Add login / logout functionality
+- [ ] Make API calls to a backend server
+- [ ] Use a SPA framework to build the web application (Vue, React, Angular)S
 
 
 # Additional checklist to become a great junior coder
-- [] Able to learn up a new framework on your own
-- [] Able to touch type and use VIM
-- [] Learn a low level coding language (Golang, Rust, C)
-- [] Understand how pointers work 
-- [] Learn infrastructure as Code (Terraform)
-- [] Deploy a CI / CD pipeline 
-- [] Build your application in a docker container
+- [ ] Able to learn up a new framework on your own
+- [ ] Able to touch type and use VIM
+- [ ] Learn a low level coding language (Golang, Rust, C)
+- [ ] Understand how pointers work 
+- [ ] Learn infrastructure as Code (Terraform)
+- [ ] Deploy a CI / CD pipeline 
+- [ ] Build your application in a docker container
 
 
 
