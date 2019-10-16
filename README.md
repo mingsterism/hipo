@@ -1,4 +1,4 @@
-# The Checklist to become a good junior coder YIHANG
+# The Checklist to become a good junior coder YIHANG is here 
 ## Devops 
 - [ ] Able to navigate linux using just commandline
 - [ ] Understand how the linux file system works
