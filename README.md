@@ -1,4 +1,4 @@
-Skin
+Skin: "Strugling, but it's definitely worth it."
 
 # The Checklist to become a good junior coder
 ## Devops 
