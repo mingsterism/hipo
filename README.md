@@ -1,5 +1,7 @@
 Skin: "Strugling, but it's definitely worth it."
 
+2nd Coming
+
 # The Checklist to become a good junior coder
 ## Devops 
 - [ ] Able to navigate linux using just commandline
